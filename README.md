@@ -1,3 +1,3 @@
 # ederssouza.github.io
 
-Only a redirect to [https://ederssouza.github.io/cv](https://ederssouza.github.io/cv).
+Only a redirect to [https://ederssouza.github.io/profile](https://ederssouza.github.io/profile).
